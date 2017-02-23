@@ -8,4 +8,4 @@ This repository contains a front panel design and divider add-on (circuit design
 
 ## Divider PCB
 
-![PCB top](/docs/divider_top.png?raw=true) ![PCB bottom](/docs/divider_bottom.png?raw=true)
+<img src="/docs/divider_bottom.png" alt="PCB bottom" width="200"> <img src="/docs/divider_top.png" alt="PCB top" width="200">
