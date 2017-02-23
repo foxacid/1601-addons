@@ -5,7 +5,7 @@ This repository contains a front panel design and divider add-on (circuit design
 
 ## One Thousand Six Hundred and One Panel 
 
-Just like the [TTSH](http://www.thehumancomparator.net/) panel, this 1601 front panel design is inspired by the ARP 2600 'Grey Meanie' layout and colour scheme. To match the TTSH, the text is set in white 9pt Helvetica. Panel colour should be RAL 7016 Anthrazitgrau.
+Just like the [TTSH](http://www.thehumancomparator.net/) panel, this 1601 front panel design is inspired by the ARP 2600 'Grey Meanie' layout and colour scheme. To match the TTSH, the text is set in 9pt Helvetica (white on RAL 7016 Anthrazitgrau).
 
 The layout fits Kiplings 1601 clone PCBS Rev 1-3. Additionally there is a provision for 6 extra jacks above the power switch to the right to accomodate the Clock Divider add-on.
 
@@ -20,7 +20,7 @@ The Clock Divider is based on an original design by Matthias Herrmann [Original 
 There is a provision for normalising Gate Output 2 to the divider's clock input. There are also provisions for LED indicators and a manual Reset button. Those are not present on the front panel.
 
  - - - -
-**Caveat emptor: PCB design v0.9 is currently being manufactured and therefore untested.**
+**Caveat emptor: PCB design v0.9 is currently untested.**
  - - - -
 
 ### PCB
@@ -33,7 +33,7 @@ There is a provision for normalising Gate Output 2 to the divider's clock input.
 
 Name                 |  Value       |  Package 
 -----------------    | ------------ | ------------
-*Capacitors*         |              |         
+***Capacitors***     |              |         
 C1                   |  100uF       |  Radial, 2.5mm spacing                         
 C2                   |  0.1µF       |  0805    
 C3                   |  0.1µF       |  0805    
