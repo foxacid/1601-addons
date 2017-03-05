@@ -15,7 +15,7 @@ The layout fits Kiplings 1601 clone PCBS Rev 1-3. Additionally there is a provis
 
 ## Divider PCB
 
-The Clock Divider is based on an original design by Matthias Herrmann [Original Schematic](http://www.modular.fonik.de/pdf/SimpleDividerSCH.pdf). The clock-divider folder contains the Eagle source files and Gerbers generated with [Seeed Studio](https://www.seeedstudio.com/) design rules. A unipolar +15V power source is required.
+The Clock Divider is based on an [original design by Matthias Herrmann](http://www.modular.fonik.de/pdf/SimpleDividerSCH.pdf) - thanks Matthias! The clock-divider folder contains the EAGLE source files and Gerbers generated with [Seeed Studio](https://www.seeedstudio.com/) design rules. A unipolar +15V power source is required.
 
 There is a provision for normalising Gate Output 2 to the divider's clock input. There are also provisions for LED indicators and a manual Reset button. Those are not present on the front panel.
 
@@ -29,7 +29,6 @@ There is a provision for normalising Gate Output 2 to the divider's clock input.
 
 
 ### Bill of Materials
-
 
 Name                 |  Value       |  Package 
 -----------------    | ------------ | ------------
