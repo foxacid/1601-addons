@@ -33,40 +33,40 @@ There is a provision for normalising Gate Output 2 to the divider's clock input.
 Name                 |  Value       |  Package 
 -----------------    | ------------ | ------------
 ***Capacitors***     |              |         
-C1                   |  100uF       |  Radial, 2.5mm spacing                         
-C2                   |  0.1µF       |  0805    
-C3                   |  0.1µF       |  0805    
-C5                   |  0.01µF      |  0805   
+C1                   |  100uF       |  Radial, 2.5mm spacing
+C2                   |  0.1µF       |  0805
+C3                   |  0.1µF       |  0805
+C5                   |  0.01µF      |  0805
 ***Semiconductors*** |              |         
 D1-D4                |  1N4148      |  DO35 
 Q1-Q7                |  BC850       |  SOT23
-IC1                  |  4024D       |  SO14    
-IC2                  |  4069D       |  SO14    
-***Resistors***      |              |        
-R1                   |  47K         |  0805    
-R2                   |  10K         |  0805    
-R3                   |  47K         |  0805    
-R4                   |  100K        |  0805    
-R5                   |  100K        |  0805    
-R6                   |  10K         |  0805    
-R7                   |  10K         |  0805    
-R8                   |  47K         |  0805    
-R10                  |  2K2         |  0805    
-R11                  |  1K          |  0805    
-R12                  |  2K2         |  0805    
-R13                  |  2K2         |  0805    
-R14                  |  1K          |  0805    
-R15                  |  2K2         |  0805    
-R16                  |  2K2         |  0805    
-R17                  |  1K          |  0805    
-R18                  |  2K2         |  0805    
-R19                  |  2K2         |  0805    
-R20                  |  1K          |  0805    
+IC1                  |  4024D       |  SO14
+IC2                  |  4069D       |  SO14
+***Resistors***      |              |      
+R1                   |  47K         |  0805
+R2                   |  10K         |  0805
+R3                   |  47K         |  0805
+R4                   |  100K        |  0805
+R5                   |  100K        |  0805
+R6                   |  10K         |  0805
+R7                   |  10K         |  0805
+R8                   |  47K         |  0805
+R10                  |  2K2         |  0805
+R11                  |  1K          |  0805
+R12                  |  2K2         |  0805
+R13                  |  2K2         |  0805
+R14                  |  1K          |  0805
+R15                  |  2K2         |  0805
+R16                  |  2K2         |  0805
+R17                  |  1K          |  0805
+R18                  |  2K2         |  0805
+R19                  |  2K2         |  0805
+R20                  |  1K          |  0805
 R21                  |  2K2         |  0805
 ***Jacks***          |              |    
-CLOCK                |  PJ301BM     |  Thonk Jack     
-RESET                |  PJ301BM     |  Thonk Jack   
-F/2                  |  PJ301BM     |  Thonk Jack         
-F/4                  |  PJ301BM     |  Thonk Jack         
-F/8                  |  PJ301BM     |  Thonk Jack         
-F/16                 |  PJ301BM     |  Thonk Jack         
+CLOCK                |  PJ301BM     |  3,5mm Mono
+RESET                |  PJ301BM     |  3,5mm Mono
+F/2                  |  PJ301BM     |  3,5mm Mono
+F/4                  |  PJ301BM     |  3,5mm Mono
+F/8                  |  PJ301BM     |  3,5mm Mono
+F/16                 |  PJ301BM     |  3,5mm Mono
