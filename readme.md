@@ -64,9 +64,9 @@ R19                  |  2K2         |  0805
 R20                  |  1K          |  0805    
 R21                  |  2K2         |  0805
 ***Jacks***          |              |    
-CLOCK                |  Thonk Jack  |  Thonk Jack     
-RESET                |  Thonk Jack  |  Thonk Jack   
-F/2                  |  Thonk Jack  |  Thonk Jack         
-F/4                  |  Thonk Jack  |  Thonk Jack         
-F/8                  |  Thonk Jack  |  Thonk Jack         
-F/16                 |  Thonk Jack  |  Thonk Jack         
+CLOCK                |  PJ301BM     |  Thonk Jack     
+RESET                |  PJ301BM     |  Thonk Jack   
+F/2                  |  PJ301BM     |  Thonk Jack         
+F/4                  |  PJ301BM     |  Thonk Jack         
+F/8                  |  PJ301BM     |  Thonk Jack         
+F/16                 |  PJ301BM     |  Thonk Jack         
