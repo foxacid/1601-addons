@@ -19,16 +19,16 @@ The Clock Divider is based on an [original design by Matthias Herrmann](http://w
 
 There is a provision for normalising Gate Output 2 to the divider's clock input. There are also provisions for LED indicators and a manual Reset button. Those are not present on the front panel.
 
- - - - -
-**Caveat emptor: PCB design v0.9 is currently untested.**
- - - - -
-
 ### PCB
 
 ![PCB bottom](/docs/divider_bottom.png?raw=true) ![PCB top](/docs/divider_top.png?raw=true)
 
 
 ### Bill of Materials
+
+ - - - -
+**Make sure to use 15V versions for the logic ICs**
+ - - - -
 
 Name                 |  Value       |  Package 
 -----------------    | ------------ | ------------
